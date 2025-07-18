@@ -1,0 +1,142 @@
+{
+    "301": {
+        "Question": "Berapa jumlah vol dari karya seni rupa yang dikelola?",
+        "Answer": "1,788",
+        "image_paths": "Table_images/table_50.png",
+        "Type": "Numerical Answer",
+        "Category": "Bordered"
+    },
+    "36": {
+        "Question": "Apa reflektor yang ada pada tabel 4.9?",
+        "Answer": "Keutuhan negara dan bangsa",
+        "image_paths": "Table_images/table_380.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "141": {
+        "Question": "Ada berapa kategori di penerima anugerah AFI 2016?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_265.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "297": {
+        "Question": "Apa kode untuk mata pelajaran teknik pembuatan benang?",
+        "Answer": "485",
+        "image_paths": "Table_images/table_983.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "1012": {
+        "Question": "Berapa banyakkah kolom yang tak berisi pada baris data pertama?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_3235.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "485": {
+        "Question": "Berapa rata-rata score tanggapan dari leadership berdasarkan tabel 1?",
+        "Answer": "1.36",
+        "image_paths": "Table_images/table_756.png",
+        "Type": "Numerical Answer",
+        "Category": "Colorful"
+    },
+    "846": {
+        "Question": "Provinsi mana dengan jumlah terbesar ke-3 di tabel itu?",
+        "Answer": "Jawa Barat",
+        "image_paths": "Table_images/table_3455.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "747": {
+        "Question": "Agustus tahun berapakah yang nilainya terbanyak di Riau?",
+        "Answer": "Agustus 2010",
+        "image_paths": "Table_images/table_2410.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "100": {
+        "Question": "Berapa jumlah perempuan tingkat IX di Bangka Belitung?",
+        "Answer": "50",
+        "image_paths": "Table_images/table_394.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "730": {
+        "Question": "Kelompok umur manakah yang berjumlah paling sedikit di Maluku Utara?",
+        "Answer": "46-50",
+        "image_paths": "Table_images/table_585.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "960": {
+        "Question": "Apa sat dari kendaraan bermotor?",
+        "Answer": "Unit",
+        "image_paths": "Table_images/table_506.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "641": {
+        "Question": "Apa provinsi yang punya siswa baru terbanyak?",
+        "Answer": "Jawa Barat",
+        "image_paths": "Table_images/table_917.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "947": {
+        "Question": "Apakah benar atau salah, kolom elemen kompetensi tidak memiliki isi?",
+        "Answer": "Salah",
+        "image_paths": "Table_images/table_3213.png",
+        "Type": "Binary",
+        "Category": "Colorful"
+    },
+    "712": {
+        "Question": "Ada berapa banyak pilihan dari teknologi pesawat terbang lainnya?",
+        "Answer": "7",
+        "image_paths": "Table_images/table_968.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "136": {
+        "Question": "Provinsi mana yang punya jumlah paling tinggi?",
+        "Answer": "Jawa Barat",
+        "image_paths": "Table_images/table_2600.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "1037": {
+        "Question": "Apa saja kode data yang ada untuk TV One?",
+        "Answer": "AKIM080611, AKIM080625, AKIM080814",
+        "image_paths": "Table_images/table_2.png",
+        "Type": "Multiple Answer",
+        "Category": "Bordered"
+    },
+    "469": {
+        "Question": "Berapa sih rusak berat yang ada di Papua Barat?",
+        "Answer": "1",
+        "image_paths": "Table_images/table_2609.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "32": {
+        "Question": "Apakah provinsi dengan kondisi baik tersedikit?",
+        "Answer": "Kalimantan Utara",
+        "image_paths": "Table_images/table_2606.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "53": {
+        "Question": "Provinsi manakah yang memiliki jumlah sebesar 50.612?",
+        "Answer": "Aceh",
+        "image_paths": "Table_images/table_2532.png",
+        "Type": "Numerical Question",
+        "Category": "Borderless"
+    },
+    "128": {
+        "Question": "Kompetensi dasar mana dengan jumlah poin materi pokok tersedikit?",
+        "Answer": "Membuat kebijakan perusahaan",
+        "image_paths": "Table_images/table_1901.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    }
+}

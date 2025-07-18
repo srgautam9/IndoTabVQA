@@ -1,0 +1,142 @@
+{
+    "215": {
+        "Question": "Which basic competency has the fewest main material points?",
+        "Answer": "Make company policy",
+        "image_paths": "Table_images/table_1901.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "222": {
+        "Question": "What are the existing data codes for TV One?",
+        "Answer": "AKIM080611, AKIM080625, AKIM080814",
+        "image_paths": "Table_images/table_2.png",
+        "Type": "Multiple Answers",
+        "Category": "Bordered"
+    },
+    "268": {
+        "Question": "August What year is the most value in Riau?",
+        "Answer": "August 2010",
+        "image_paths": "Table_images/table_2410.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "350": {
+        "Question": "Which province has a total of 50.612?",
+        "Answer": "Aceh",
+        "image_paths": "Table_images/table_2532.png",
+        "Type": "Numerical Question",
+        "Category": "Borderless"
+    },
+    "381": {
+        "Question": "Which province has the highest amount?",
+        "Answer": "West Java",
+        "image_paths": "Table_images/table_2600.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "385": {
+        "Question": "Which province has the fewest in good condition?",
+        "Answer": "North Kalimantan",
+        "image_paths": "Table_images/table_2606.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "387": {
+        "Question": "How much is severely damaged in West Papua?",
+        "Answer": "1",
+        "image_paths": "Table_images/table_2609.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "413": {
+        "Question": "How many categories in the 2016 AFI Anugerah Receiver?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_265.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "646": {
+        "Question": "Is it true or wrong, the competency element column has no content?",
+        "Answer": "Wrong",
+        "image_paths": "Table_images/table_3213.png",
+        "Type": "Binary",
+        "Category": "Colorful"
+    },
+    "661": {
+        "Question": "How many columns do not contain the first data row?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_3235.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "725": {
+        "Question": "Which province with the 3rd largest number in the table?",
+        "Answer": "West Java",
+        "image_paths": "Table_images/table_3455.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "762": {
+        "Question": "What is the reflector in Table 4.9?",
+        "Answer": "The integrity of the state and nation",
+        "image_paths": "Table_images/table_380.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "772": {
+        "Question": "How many women level IX in Bangka Belitung?",
+        "Answer": "50",
+        "image_paths": "Table_images/table_394.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "827": {
+        "Question": "What is the voltage of the works of art that are managed?",
+        "Answer": "1,788",
+        "image_paths": "Table_images/table_50.png",
+        "Type": "Numerical Answer",
+        "Category": "Bordered"
+    },
+    "831": {
+        "Question": "What is the unit of motor vehicles?",
+        "Answer": "Unit",
+        "image_paths": "Table_images/table_506.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "865": {
+        "Question": "Which age group has the lowest number in North Maluku?",
+        "Answer": "46-50",
+        "image_paths": "Table_images/table_585.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "940": {
+        "Question": "What is the average response score from leadership based on table 1?",
+        "Answer": "1.36",
+        "image_paths": "Table_images/table_756.png",
+        "Type": "Numerical Answer",
+        "Category": "Colorful"
+    },
+    "1006": {
+        "Question": "What provinces have the most new students?",
+        "Answer": "West Java",
+        "image_paths": "Table_images/table_917.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "1028": {
+        "Question": "How many choices from other aircraft technology?",
+        "Answer": "7",
+        "image_paths": "Table_images/table_968.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "1038": {
+        "Question": "What is the code for the subject of making threads?",
+        "Answer": "485",
+        "image_paths": "Table_images/table_983.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "215": {
+        "Question": "किस मूल योग्यता में सबसे कम मुख्य सामग्री बिंदु हैं?",
+        "Answer": "कंपनी की नीति बनाओ",
+        "image_paths": "Table_images/table_1901.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "222": {
+        "Question": "टीवी एक के लिए मौजूदा डेटा कोड क्या हैं?",
+        "Answer": "AKIM080611, AKIM080625, AKIM080814",
+        "image_paths": "Table_images/table_2.png",
+        "Type": "Multiple Answer",
+        "Category": "Bordered"
+    },
+    "268": {
+        "Question": "अगस्त Riau में सबसे अधिक मूल्य किस वर्ष है?",
+        "Answer": "अगस्त 2010",
+        "image_paths": "Table_images/table_2410.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "350": {
+        "Question": "किस प्रांत में कुल 50.612 है?",
+        "Answer": "आचे",
+        "image_paths": "Table_images/table_2532.png",
+        "Type": "Numerical Question",
+        "Category": "Borderless"
+    },
+    "381": {
+        "Question": "किस प्रांत में उच्चतम राशि है?",
+        "Answer": "पच्छिम जावा",
+        "image_paths": "Table_images/table_2600.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "385": {
+        "Question": "किस प्रांत में अच्छी स्थिति में सबसे कम है?",
+        "Answer": "नॉर्थ कालीमंतन",
+        "image_paths": "Table_images/table_2606.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "387": {
+        "Question": "पश्चिम पापुआ में कितना गंभीर रूप से क्षतिग्रस्त है?",
+        "Answer": "1",
+        "image_paths": "Table_images/table_2609.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "413": {
+        "Question": "2016 AFI Anugerah रिसीवर में कितनी श्रेणियां?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_265.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "646": {
+        "Question": "क्या यह सही या गलत है, योग्यता तत्व कॉलम में कोई सामग्री नहीं है?",
+        "Answer": "गलत",
+        "image_paths": "Table_images/table_3213.png",
+        "Type": "Binary",
+        "Category": "Colorful"
+    },
+    "661": {
+        "Question": "कितने कॉलम में पहला डेटा पंक्ति नहीं है?",
+        "Answer": "3",
+        "image_paths": "Table_images/table_3235.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "725": {
+        "Question": "तालिका में तीसरी सबसे बड़ी संख्या के साथ कौन सा प्रांत?",
+        "Answer": "पच्छिम जावा",
+        "image_paths": "Table_images/table_3455.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "762": {
+        "Question": "तालिका 4.9 में परावर्तक क्या है?",
+        "Answer": "राज्य और राष्ट्र की अखंडता",
+        "image_paths": "Table_images/table_380.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "772": {
+        "Question": "बंगका बेलितुंग में कितनी महिला स्तर IX?",
+        "Answer": "50",
+        "image_paths": "Table_images/table_394.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "827": {
+        "Question": "कला के कार्यों का वोल्टेज क्या है जो प्रबंधित हैं?",
+        "Answer": "1,788",
+        "image_paths": "Table_images/table_50.png",
+        "Type": "Numerical Answer",
+        "Category": "Bordered"
+    },
+    "831": {
+        "Question": "मोटर वाहनों की इकाई क्या है?",
+        "Answer": "इकाई",
+        "image_paths": "Table_images/table_506.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "865": {
+        "Question": "उत्तर मलुकु में किस आयु वर्ग की सबसे कम संख्या है?",
+        "Answer": "46-50",
+        "image_paths": "Table_images/table_585.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "940": {
+        "Question": "तालिका 1 के आधार पर नेतृत्व से औसत प्रतिक्रिया स्कोर क्या है?",
+        "Answer": "1.36",
+        "image_paths": "Table_images/table_756.png",
+        "Type": "Numerical Answer",
+        "Category": "Colorful"
+    },
+    "1006": {
+        "Question": "सबसे नए छात्र क्या प्रांत हैं?",
+        "Answer": "पच्छिम जावा",
+        "image_paths": "Table_images/table_917.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "1028": {
+        "Question": "अन्य विमान तकनीक से कितने विकल्प हैं?",
+        "Answer": "7",
+        "image_paths": "Table_images/table_968.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "1038": {
+        "Question": "थ्रेड बनाने के विषय के लिए कोड क्या है?",
+        "Answer": "485",
+        "image_paths": "Table_images/table_983.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    }
+}

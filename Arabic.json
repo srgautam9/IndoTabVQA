@@ -1,0 +1,142 @@
+{
+    "215": {
+        "Question": "ما هي الكفاءة الأساسية التي لديها أقل عدد من النقاط المادية الرئيسية؟",
+        "Answer": "جعل سياسة الشركة",
+        "image_paths": "Table_images/table_1901.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "222": {
+        "Question": "ما هي رموز البيانات الموجودة لتلفزيون واحد؟",
+        "Answer": "AKIM080611 ، AKIM080625 ، AKIM080814",
+        "image_paths": "Table_images/table_2.png",
+        "Type": "Multiple Answers",
+        "Category": "Bordered"
+    },
+    "268": {
+        "Question": "أغسطس في أي سنة هي أكثر قيمة في رياو؟",
+        "Answer": "أغسطس 2010",
+        "image_paths": "Table_images/table_2410.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "350": {
+        "Question": "أي مقاطعة لديها ما مجموعه 50.612؟",
+        "Answer": "آتشيه",
+        "image_paths": "Table_images/table_2532.png",
+        "Type": "Numerical Question",
+        "Category": "Borderless"
+    },
+    "381": {
+        "Question": "ما هي المقاطعة التي لديها أعلى مبلغ؟",
+        "Answer": "غرب جاوة",
+        "image_paths": "Table_images/table_2600.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "385": {
+        "Question": "أي مقاطعة لديها أقل في حالة جيدة؟",
+        "Answer": "شمال كاليمانتان",
+        "image_paths": "Table_images/table_2606.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "387": {
+        "Question": "كم يتضرر بشدة في غرب بابوا؟",
+        "Answer": "1",
+        "image_paths": "Table_images/table_2609.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "413": {
+        "Question": "كم عدد الفئات في جهاز استقبال AFI Anugerah لعام 2016؟",
+        "Answer": "3",
+        "image_paths": "Table_images/table_265.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "646": {
+        "Question": "هل هذا صحيح أم خطأ ، عمود عنصر الكفاءة لا يحتوي على محتوى؟",
+        "Answer": "خطأ",
+        "image_paths": "Table_images/table_3213.png",
+        "Type": "Binary",
+        "Category": "Colorful"
+    },
+    "661": {
+        "Question": "كم عدد الأعمدة التي لا تحتوي على صف البيانات الأول؟",
+        "Answer": "3",
+        "image_paths": "Table_images/table_3235.png",
+        "Type": "Reasoning",
+        "Category": "Colorful"
+    },
+    "725": {
+        "Question": "أي مقاطعة مع ثالث أكبر عدد في الجدول؟",
+        "Answer": "غرب جاوة",
+        "image_paths": "Table_images/table_3455.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "762": {
+        "Question": "ما هو العاكس في الجدول 4.9؟",
+        "Answer": "سلامة الدولة والأمة",
+        "image_paths": "Table_images/table_380.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "772": {
+        "Question": "كم عدد النساء من المستوى التاسع في بانكا بيليتونغ؟",
+        "Answer": "50",
+        "image_paths": "Table_images/table_394.png",
+        "Type": "Numerical Answer",
+        "Category": "Borderless"
+    },
+    "827": {
+        "Question": "ما هو جهد الأعمال الفنية التي تتم إدارتها؟",
+        "Answer": "1788",
+        "image_paths": "Table_images/table_50.png",
+        "Type": "Numerical Answer",
+        "Category": "Bordered"
+    },
+    "831": {
+        "Question": "ما هي وحدة السيارات؟",
+        "Answer": "وحدة",
+        "image_paths": "Table_images/table_506.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    },
+    "865": {
+        "Question": "ما هي الفئة العمرية التي لديها أدنى عدد في شمال مالوكو؟",
+        "Answer": "46-50",
+        "image_paths": "Table_images/table_585.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "940": {
+        "Question": "ما هو متوسط ​​درجة الاستجابة من القيادة على أساس الجدول 1؟",
+        "Answer": "1.36",
+        "image_paths": "Table_images/table_756.png",
+        "Type": "Numerical Answer",
+        "Category": "Colorful"
+    },
+    "1006": {
+        "Question": "ما هي المقاطعات التي لديها أكثر الطلاب الجدد؟",
+        "Answer": "غرب جاوة",
+        "image_paths": "Table_images/table_917.png",
+        "Type": "Reasoning",
+        "Category": "Borderless"
+    },
+    "1028": {
+        "Question": "كم عدد الخيارات من تكنولوجيا الطائرات الأخرى؟",
+        "Answer": "7",
+        "image_paths": "Table_images/table_968.png",
+        "Type": "Reasoning",
+        "Category": "Bordered"
+    },
+    "1038": {
+        "Question": "ما هو رمز موضوع صنع المواضيع؟",
+        "Answer": "485",
+        "image_paths": "Table_images/table_983.png",
+        "Type": "Single Answer",
+        "Category": "Bordered"
+    }
+}
